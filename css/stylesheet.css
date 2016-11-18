@@ -1,0 +1,59 @@
+* {
+    font-family: 'Playfair Display', serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    color: #0d577c;
+    text-align: center;
+    padding: 20px;
+}
+
+li {
+    display: inline;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    color: #0d577c;
+}
+
+ul {
+    margin: auto;
+    text-align: center;
+    padding: 0px 0px 25px 0px;
+}
+
+.descripcion {
+    padding: 25px;
+}
+
+#nombres {
+    padding-left: 25px;
+    padding-bottom: 25px;
+}
+
+#footer {
+        padding-left: 25px;
+}
+
+td {
+   padding: 25px;
+}
+
+img {
+       border: 2px solid #07415d;
+}
+
+table {
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+#titulo {
+    size: 18px;
+    color: #07415d;
+    bold
+}
