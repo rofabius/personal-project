@@ -52,8 +52,7 @@ a {
     text-decoration: none;
 }
 
-#titulo {
-    size: 18px;
+h3 {
     color: #07415d;
-    bold
+    padding: 15px;
 }
